@@ -1,0 +1,13 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssl
+#open	2026-09-06-05-33-47
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	curve	server_name	resumed	last_alert	next_protocol	established	ssl_history	cert_chain_fps	client_cert_chain_fps	sni_matches_cert
+#types	time	string	addr	port	addr	port	string	string	string	string	bool	string	string	bool	string	vector[string]	vector[string]	bool
+1788672756.889349	CwdCfJ2RMocRsmpEth	127.0.0.1	56582	127.0.0.1	8444	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788672773.134606	CaHxZB3yJpLCFK93a7	127.0.0.1	36044	127.0.0.1	8444	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788672788.278691	CHWdugEFDdTaso2Hb	127.0.0.1	44236	127.0.0.1	8444	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788672804.338577	C8wa5N3dOi3U7Fh3Hj	127.0.0.1	55922	127.0.0.1	8444	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+#close	2026-09-06-05-33-47

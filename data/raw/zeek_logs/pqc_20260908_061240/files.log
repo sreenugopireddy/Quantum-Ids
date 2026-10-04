@@ -1,0 +1,39 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2026-09-08-06-17-48
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1788848144.922665	F80gGl2HRXQ1DM6YFd	CWPy5T23ZJC4sViLbf	172.28.0.1	53876	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848145.426519	FohRal1UT55DPCRNs	CB32JmlKuOnI9tnR3	172.28.0.1	53884	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848145.929887	Fx8tqEBuWWpIVdLR3	CEIbgMH3thYUPkWde	172.28.0.1	53892	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848146.432377	FbA18B4coOeF8ia6Ke	CSmI1d3yq59lUjYe1l	172.28.0.1	53894	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848146.934946	FIhoO92KcWwXqfAHf5	C4R5qm4xqey4C64wWa	172.28.0.1	53910	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848147.438747	F5SN182l0IMEOuDUk	CDm5xpmLiheE9N1Di	172.28.0.1	53916	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848147.944794	FhL42b27bLm7FCByQb	Cqrqau3jXJTa1r4yX	172.28.0.1	53924	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848148.448159	FKNwfW26uEejmGluzl	CFItAV3945UmVVvQ4a	172.28.0.1	33146	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848148.951170	FUhEQY2oafNlxBd42	C2gU242KqphhG14bX3	172.28.0.1	33160	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848149.454659	FojJ73YiDtjuefpSa	CFM5ru4cOlZ0Dv7aJj	172.28.0.1	33172	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848149.957693	FJKecK1ejY3k1y8r9j	Cofi8i3SIcQeD3aWbg	172.28.0.1	33182	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848150.461196	FjEdn41ywxK8hV5Otd	CZposr3gqQSMQiFhW3	172.28.0.1	33188	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848150.964770	F3cF9R3FTzJyvHFQTk	Cl75OinEAT3G1vTm9	172.28.0.1	33190	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848151.468853	FX0vbj437v53eo15Fe	C9PO4n4Rqns92IFge	172.28.0.1	33192	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848151.970879	Fy9b53wWRJSVUWpkc	CG1Wln2cOSfbVPiRdg	172.28.0.1	33194	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	255	255	0	0	F	-	-	-	-	-	-	-
+1788848199.828544	FxQXU8xs40tCtZMij	CUiq3l44wmNrNCEDt2	172.28.0.1	54214	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848200.332799	F2LVZ43Sce6xKOu5A3	CMH47L1xLcbqRoKyIg	172.28.0.1	37064	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848200.836086	FN5WOR235AdVPghfBb	CC1Fnx1P2FWgJMMPie	172.28.0.1	37076	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848201.337234	FRGV7Y3AwNg1HK9m8k	CMPjSp3DBRpxsKTokb	172.28.0.1	37078	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848201.840188	FGHv1FDlGAM4pAcm8	CfOxkk3whJYsKNuVF6	172.28.0.1	37094	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848202.344709	FrDdK43UuxQ88KnX	C6aUAg4l4LNtqCdcD5	172.28.0.1	37102	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848202.848634	FjtB1n1KnrIaskkFJf	C72mxhuhw0xj15JZ2	172.28.0.1	37116	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848203.352731	FbuF6aiR12A35I7Af	C2fLzM2PLUFToCOCA4	172.28.0.1	37122	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848203.856594	FB06SC4M8RqRefH4Vl	CLWobHiG5HjrQJDxk	172.28.0.1	37126	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848204.360721	FKkImIrX7YCgUARy9	CnjjyG1xFeHApT5upb	172.28.0.1	37138	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848204.864020	F9v0bu2a5hlWBjSr16	CHXf5k30HY2Qe0vw1b	172.28.0.1	37142	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848205.367694	FNv5ge1wE1Orz6DkRj	CfTFfB4wdctt7OMtQb	172.28.0.1	37156	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848205.871416	FoXiHO1xesOBAsBFAc	CHQJMo4rWLHbFrBnq6	172.28.0.1	37172	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848206.375707	FxVLT92ot5J2HvLzjj	Cry3o21aiKrAjkXbaf	172.28.0.1	37180	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+1788848206.878610	FyoLpa1Kr4ZKcNBBt	Cwjo012KeOJwb6smR7	172.28.0.1	37194	172.28.0.2	8444	HTTP	0	(empty)	text/html	-	0.000000	T	F	157	157	0	0	F	-	-	-	-	-	-	-
+#close	2026-09-08-06-17-48

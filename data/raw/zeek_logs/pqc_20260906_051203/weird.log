@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2026-09-06-03-51-03
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1788671589.404139	CvFaBQ3j3MMsMxDEvl	127.0.0.1	8444	127.0.0.1	47528	connection_originator_SYN_ack	-	F	zeek	TCP
+#close	2026-09-06-03-51-03

@@ -1,0 +1,16 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssl
+#open	2026-09-06-06-22-58
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	curve	server_name	resumed	last_alert	next_protocol	established	ssl_history	cert_chain_fps	client_cert_chain_fps	sni_matches_cert
+#types	time	string	addr	port	addr	port	string	string	string	string	bool	string	string	bool	string	vector[string]	vector[string]	bool
+1788675672.730761	CwWzZT1Gm2oLpbOtfa	127.0.0.1	34346	127.0.0.1	8443	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788675690.568660	CjWVsb2GwxRKWpzxZ1	127.0.0.1	45394	127.0.0.1	8443	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788675705.723537	CI4d5XaP9oznE3w78	127.0.0.1	42522	127.0.0.1	8443	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788675723.576931	C2BLmv3RamszvfR5ml	127.0.0.1	54416	127.0.0.1	8443	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788675738.670436	Cqshge4rx76B6NPQYd	127.0.0.1	58956	127.0.0.1	8443	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788675754.911937	CsXVG54dKJyeIuYK6d	127.0.0.1	38970	127.0.0.1	8443	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+1788675770.023147	CfMpNN1PcntaKQn1dc	127.0.0.1	39206	127.0.0.1	8443	TLSv13	TLS_AES_256_GCM_SHA384	x25519	-	F	-	-	T	CsiI	-	-	-
+#close	2026-09-06-06-22-58

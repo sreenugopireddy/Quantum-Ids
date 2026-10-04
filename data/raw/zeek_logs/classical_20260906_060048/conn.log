@@ -1,0 +1,14 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2026-09-06-06-02-00
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]
+1788674447.592307	CG0BYw3JXP8n0Bh1Bg	127.0.0.1	47780	127.0.0.1	8443	tcp	ssl	0.005133	356	1907	SF	T	T	0	ShADadFf	10	884	6	2227	-
+1788674463.889251	C5Anrs3OhGk4zuDArj	127.0.0.1	46522	127.0.0.1	8443	tcp	ssl	0.004106	356	1907	SF	T	T	0	ShADadFf	10	884	6	2227	-
+1788674479.017739	CFGa064GvgcwJ5Oel4	127.0.0.1	50360	127.0.0.1	8443	tcp	ssl	0.004707	356	1907	SF	T	T	0	ShADadFf	10	884	6	2227	-
+1788674496.878593	CjZUXe4DbCFZTiXss2	127.0.0.1	42118	127.0.0.1	8443	tcp	ssl	0.004061	356	1907	SF	T	T	0	ShADadFf	10	884	6	2227	-
+1788674511.986949	CdtDaeg6BLXWmLSz8	127.0.0.1	33118	127.0.0.1	8443	tcp	ssl	0.002906	356	1907	SF	T	T	0	ShADadFf	9	832	6	2227	-
+#close	2026-09-06-06-02-00

@@ -1,0 +1,39 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2026-09-08-06-17-48
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+1788848144.922498	CWPy5T23ZJC4sViLbf	172.28.0.1	53876	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	F80gGl2HRXQ1DM6YFd	-	text/html
+1788848145.426252	CB32JmlKuOnI9tnR3	172.28.0.1	53884	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FohRal1UT55DPCRNs	-	text/html
+1788848145.929606	CEIbgMH3thYUPkWde	172.28.0.1	53892	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	Fx8tqEBuWWpIVdLR3	-	text/html
+1788848146.432171	CSmI1d3yq59lUjYe1l	172.28.0.1	53894	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FbA18B4coOeF8ia6Ke	-	text/html
+1788848146.934811	C4R5qm4xqey4C64wWa	172.28.0.1	53910	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FIhoO92KcWwXqfAHf5	-	text/html
+1788848147.438421	CDm5xpmLiheE9N1Di	172.28.0.1	53916	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	F5SN182l0IMEOuDUk	-	text/html
+1788848147.944416	Cqrqau3jXJTa1r4yX	172.28.0.1	53924	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FhL42b27bLm7FCByQb	-	text/html
+1788848148.447792	CFItAV3945UmVVvQ4a	172.28.0.1	33146	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FKNwfW26uEejmGluzl	-	text/html
+1788848148.950956	C2gU242KqphhG14bX3	172.28.0.1	33160	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FUhEQY2oafNlxBd42	-	text/html
+1788848149.454374	CFM5ru4cOlZ0Dv7aJj	172.28.0.1	33172	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FojJ73YiDtjuefpSa	-	text/html
+1788848149.957480	Cofi8i3SIcQeD3aWbg	172.28.0.1	33182	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FJKecK1ejY3k1y8r9j	-	text/html
+1788848150.460871	CZposr3gqQSMQiFhW3	172.28.0.1	33188	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FjEdn41ywxK8hV5Otd	-	text/html
+1788848150.964425	Cl75OinEAT3G1vTm9	172.28.0.1	33190	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	F3cF9R3FTzJyvHFQTk	-	text/html
+1788848151.468531	C9PO4n4Rqns92IFge	172.28.0.1	33192	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FX0vbj437v53eo15Fe	-	text/html
+1788848151.970752	CG1Wln2cOSfbVPiRdg	172.28.0.1	33194	172.28.0.2	8444	1	GET	anomaly.lab.local	/	-	1.1	-	-	0	255	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	Fy9b53wWRJSVUWpkc	-	text/html
+1788848199.828544	CUiq3l44wmNrNCEDt2	172.28.0.1	54214	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FxQXU8xs40tCtZMij	-	text/html
+1788848200.332799	CMH47L1xLcbqRoKyIg	172.28.0.1	37064	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	F2LVZ43Sce6xKOu5A3	-	text/html
+1788848200.836086	CC1Fnx1P2FWgJMMPie	172.28.0.1	37076	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FN5WOR235AdVPghfBb	-	text/html
+1788848201.337234	CMPjSp3DBRpxsKTokb	172.28.0.1	37078	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FRGV7Y3AwNg1HK9m8k	-	text/html
+1788848201.840188	CfOxkk3whJYsKNuVF6	172.28.0.1	37094	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FGHv1FDlGAM4pAcm8	-	text/html
+1788848202.344709	C6aUAg4l4LNtqCdcD5	172.28.0.1	37102	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FrDdK43UuxQ88KnX	-	text/html
+1788848202.848634	C72mxhuhw0xj15JZ2	172.28.0.1	37116	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FjtB1n1KnrIaskkFJf	-	text/html
+1788848203.352731	C2fLzM2PLUFToCOCA4	172.28.0.1	37122	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FbuF6aiR12A35I7Af	-	text/html
+1788848203.856594	CLWobHiG5HjrQJDxk	172.28.0.1	37126	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FB06SC4M8RqRefH4Vl	-	text/html
+1788848204.360721	CnjjyG1xFeHApT5upb	172.28.0.1	37138	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FKkImIrX7YCgUARy9	-	text/html
+1788848204.864020	CHXf5k30HY2Qe0vw1b	172.28.0.1	37142	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	F9v0bu2a5hlWBjSr16	-	text/html
+1788848205.367694	CfTFfB4wdctt7OMtQb	172.28.0.1	37156	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FNv5ge1wE1Orz6DkRj	-	text/html
+1788848205.871416	CHQJMo4rWLHbFrBnq6	172.28.0.1	37172	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FoXiHO1xesOBAsBFAc	-	text/html
+1788848206.375707	Cry3o21aiKrAjkXbaf	172.28.0.1	37180	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FxVLT92ot5J2HvLzjj	-	text/html
+1788848206.878610	Cwjo012KeOJwb6smR7	172.28.0.1	37194	172.28.0.2	8444	1	-	-	-	-	1.1	-	-	0	157	400	Bad Request	-	-	(empty)	-	-	-	-	-	-	FyoLpa1Kr4ZKcNBBt	-	text/html
+#close	2026-09-08-06-17-48

@@ -1,0 +1,24 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2026-09-08-06-17-48
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1788848199.829527	CUiq3l44wmNrNCEDt2	172.28.0.1	54214	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848200.333497	CMH47L1xLcbqRoKyIg	172.28.0.1	37064	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848200.836490	CC1Fnx1P2FWgJMMPie	172.28.0.1	37076	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848201.337509	CMPjSp3DBRpxsKTokb	172.28.0.1	37078	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848201.840657	CfOxkk3whJYsKNuVF6	172.28.0.1	37094	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848202.345298	C6aUAg4l4LNtqCdcD5	172.28.0.1	37102	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848202.849229	C72mxhuhw0xj15JZ2	172.28.0.1	37116	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848203.353250	C2fLzM2PLUFToCOCA4	172.28.0.1	37122	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848203.857595	CLWobHiG5HjrQJDxk	172.28.0.1	37126	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848204.361241	CnjjyG1xFeHApT5upb	172.28.0.1	37138	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848204.864478	CHXf5k30HY2Qe0vw1b	172.28.0.1	37142	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848205.368319	CfTFfB4wdctt7OMtQb	172.28.0.1	37156	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848205.872450	CHQJMo4rWLHbFrBnq6	172.28.0.1	37172	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848206.376312	Cry3o21aiKrAjkXbaf	172.28.0.1	37180	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+1788848206.879083	Cwjo012KeOJwb6smR7	172.28.0.1	37194	172.28.0.2	8444	bad_HTTP_request	-	F	zeek	HTTP
+#close	2026-09-08-06-17-48

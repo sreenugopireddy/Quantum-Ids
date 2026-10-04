@@ -1,0 +1,29 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2026-09-06-03-51-03
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]
+1788671523.465176	CHeiSk4D2KrJQu3KOh	127.0.0.1	45948	127.0.0.1	8444	tcp	ssl	0.003693	356	1895	SF	T	T	0	ShADadFf	10	884	7	2267	-
+1788671541.308115	C7YcFdce0025qWb66	127.0.0.1	48032	127.0.0.1	8444	tcp	ssl	0.003312	356	1895	SF	T	T	0	ShADadFf	9	832	6	2215	-
+1788671556.440348	CgOFR74ZxXVfP9ctD9	127.0.0.1	58308	127.0.0.1	8444	tcp	ssl	0.005401	356	1895	SF	T	T	0	ShADadFf	9	832	6	2215	-
+1788671574.270710	CnhIGe2chN1cHiaVag	127.0.0.1	58036	127.0.0.1	8444	tcp	ssl	0.003802	356	1895	SF	T	T	0	ShADadFf	10	884	6	2215	-
+1788666658.381213	C2whxy4z3f7zMHtCM	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	S0	T	T	0	S	1	60	0	0	-
+1788666658.381228	CvFaBQ3j3MMsMxDEvl	127.0.0.1	8444	127.0.0.1	47528	tcp	-	-	-	-	OTH	T	T	0	H	1	60	0	0	-
+1788666658.381252	CT8tGk2vdszzTtbBRh	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788666658.381481	CU7rdmOoCZjDW5B84	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	281	0	0	-
+1788666658.381500	CmDXxv3uB7usQi81Xl	127.0.0.1	8444	127.0.0.1	47528	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788666658.382956	CUu3fzbFp31oMmCc2	127.0.0.1	8444	127.0.0.1	47528	tcp	-	-	-	-	OTH	T	T	0	D	1	1405	0	0	-
+1788666658.382983	CJmciw2Xt5GDOrvCqe	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788666658.384998	CE4OpzHuu1pKTKzQl	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	132	0	0	-
+1788666658.385147	CbPJwjxdVUJzSIPjj	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	75	0	0	-
+1788666658.385157	CmmNGg2zCD0PtVtdva	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	76	0	0	-
+1788666658.385161	CvrkhQ2QI4E6fqYe39	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	SH	T	T	0	F	1	52	0	0	-
+1788666658.385438	C6bZzig97AB0nE2r8	127.0.0.1	8444	127.0.0.1	47528	tcp	-	-	-	-	OTH	T	T	0	D	1	323	0	0	-
+1788666658.385541	CkkgIR2xooRszEL7G9	127.0.0.1	8444	127.0.0.1	47528	tcp	-	-	-	-	OTH	T	T	0	D	1	323	0	0	-
+1788666658.385588	CJYcYYNLZMyNFvAA5	127.0.0.1	8444	127.0.0.1	47528	tcp	-	-	-	-	SH	T	T	0	F	1	52	0	0	-
+1788666658.385592	CtqPZU1oR6dstdCifj	127.0.0.1	47528	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788671589.400419	CwHWsi29fmw7LmyDVa	127.0.0.1	51898	127.0.0.1	8444	tcp	ssl	0.003699	356	1895	SF	T	T	0	ShADadFf	10	884	6	2215	-
+#close	2026-09-06-03-51-03

@@ -1,0 +1,24 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	analyzer
+#open	2026-09-08-06-17-48
+#fields	ts	cause	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	failure_reason	failure_data
+#types	time	string	string	string	string	string	addr	port	addr	port	string	string
+1788848199.829527	violation	protocol	HTTP	CUiq3l44wmNrNCEDt2	-	172.28.0.1	54214	172.28.0.2	8444	not a http request line	-
+1788848200.333497	violation	protocol	HTTP	CMH47L1xLcbqRoKyIg	-	172.28.0.1	37064	172.28.0.2	8444	not a http request line	-
+1788848200.836490	violation	protocol	HTTP	CC1Fnx1P2FWgJMMPie	-	172.28.0.1	37076	172.28.0.2	8444	not a http request line	-
+1788848201.337509	violation	protocol	HTTP	CMPjSp3DBRpxsKTokb	-	172.28.0.1	37078	172.28.0.2	8444	not a http request line	-
+1788848201.840657	violation	protocol	HTTP	CfOxkk3whJYsKNuVF6	-	172.28.0.1	37094	172.28.0.2	8444	not a http request line	-
+1788848202.345298	violation	protocol	HTTP	C6aUAg4l4LNtqCdcD5	-	172.28.0.1	37102	172.28.0.2	8444	not a http request line	-
+1788848202.849229	violation	protocol	HTTP	C72mxhuhw0xj15JZ2	-	172.28.0.1	37116	172.28.0.2	8444	not a http request line	-
+1788848203.353250	violation	protocol	HTTP	C2fLzM2PLUFToCOCA4	-	172.28.0.1	37122	172.28.0.2	8444	not a http request line	-
+1788848203.857595	violation	protocol	HTTP	CLWobHiG5HjrQJDxk	-	172.28.0.1	37126	172.28.0.2	8444	not a http request line	-
+1788848204.361241	violation	protocol	HTTP	CnjjyG1xFeHApT5upb	-	172.28.0.1	37138	172.28.0.2	8444	not a http request line	-
+1788848204.864478	violation	protocol	HTTP	CHXf5k30HY2Qe0vw1b	-	172.28.0.1	37142	172.28.0.2	8444	not a http request line	-
+1788848205.368319	violation	protocol	HTTP	CfTFfB4wdctt7OMtQb	-	172.28.0.1	37156	172.28.0.2	8444	not a http request line	-
+1788848205.872450	violation	protocol	HTTP	CHQJMo4rWLHbFrBnq6	-	172.28.0.1	37172	172.28.0.2	8444	not a http request line	-
+1788848206.376312	violation	protocol	HTTP	Cry3o21aiKrAjkXbaf	-	172.28.0.1	37180	172.28.0.2	8444	not a http request line	-
+1788848206.879083	violation	protocol	HTTP	Cwjo012KeOJwb6smR7	-	172.28.0.1	37194	172.28.0.2	8444	not a http request line	-
+#close	2026-09-08-06-17-48

@@ -1,0 +1,29 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2026-09-06-05-33-47
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]
+1788672756.888482	CwdCfJ2RMocRsmpEth	127.0.0.1	56582	127.0.0.1	8444	tcp	ssl	0.005925	356	1895	SF	T	T	0	ShADadFf	10	884	6	2215	-
+1788672773.134144	CaHxZB3yJpLCFK93a7	127.0.0.1	36044	127.0.0.1	8444	tcp	ssl	0.004142	356	1895	SF	T	T	0	ShADadFf	10	884	6	2215	-
+1788672788.277283	CHWdugEFDdTaso2Hb	127.0.0.1	44236	127.0.0.1	8444	tcp	ssl	0.004017	356	1895	SF	T	T	0	ShADadFf	10	884	6	2215	-
+1788667873.215313	CB0WKy3s6lusOCJQOf	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	S0	T	T	0	S	1	60	0	0	-
+1788667873.215319	ChSy6n4O4laLLwmhx8	127.0.0.1	8444	127.0.0.1	56312	tcp	-	-	-	-	OTH	T	T	0	H	1	60	0	0	-
+1788667873.215327	CaCsgcNYrMRWijtR7	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788667873.215612	CcdtqH19q5PTYg8xCl	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	281	0	0	-
+1788667873.215616	CGJ1s73deo757vWMOh	127.0.0.1	8444	127.0.0.1	56312	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788667873.220869	CGpzEF2JjWt05GC2y7	127.0.0.1	8444	127.0.0.1	56312	tcp	-	-	-	-	OTH	T	T	0	D	1	1405	0	0	-
+1788667873.220897	CZsdt44bPOGjKvGxL6	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788667873.222764	CYWaCs13lJ6CZWokT4	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	132	0	0	-
+1788667873.222927	CIj6u6mULukEFx4S3	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	75	0	0	-
+1788667873.222938	CMmYZc20B1g2Zs5Qwd	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	D	1	76	0	0	-
+1788667873.222943	Ch3Jlv1AQoK7Nunt19	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	SH	T	T	0	F	1	52	0	0	-
+1788667873.223306	CkWt2g2REXzTYtuoy1	127.0.0.1	8444	127.0.0.1	56312	tcp	-	-	-	-	OTH	T	T	0	D	1	323	0	0	-
+1788667873.223772	CNRCrz4ufnHG0p6OCf	127.0.0.1	8444	127.0.0.1	56312	tcp	-	-	-	-	OTH	T	T	0	D	1	323	0	0	-
+1788667873.224008	CVIjCa1aiL1lAjzmK6	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788667873.224219	C3fEb232CUZOrHtx0b	127.0.0.1	8444	127.0.0.1	56312	tcp	-	-	-	-	SH	T	T	0	F	1	52	0	0	-
+1788667873.224241	C8y1443HYFUBRTTm1j	127.0.0.1	56312	127.0.0.1	8444	tcp	-	-	-	-	OTH	T	T	0	A	1	52	0	0	-
+1788672804.336712	C8wa5N3dOi3U7Fh3Hj	127.0.0.1	55922	127.0.0.1	8444	tcp	ssl	0.007340	356	1895	SF	T	T	0	ShADadFf	10	884	6	2215	-
+#close	2026-09-06-05-33-47
